@@ -39,6 +39,7 @@ return [
     'collection_configure_propagate_instructions' => 'Automatically propagate new entries to all configured sites.',
     'collection_next_steps_create_entry_description' => 'Tạo 1 Bản ghi đầu tiên hoặc tạo vài 1 vài Bản ghi để tham khảo cách hiển thị Loại dữ liệu này của bạn.',
     'collection_next_steps_documentation_description' => 'Tìm hiểu thêm về Loại dữ liệu, phương thức hoạt động và cách thức để tùy chỉnh chúng.',
+    'collection_next_steps_blueprints_description' => 'Manage the blueprints and fields available for this collection.',
     'collection_next_steps_scaffold_description' => 'Một cách nhanh chóng để khởi tạo Khuôn mẫu đầu vào và Khuôn mẫu chi tiết cho Loại dữ liệu này.',
     'collection_scaffold_instructions' => 'Lựa chọn khuôn mẫu cho mà hệ thống sẽ khởi tạo cho bạn. Nếu bạn đã có tạo khuôn mẫu sẵn rồi thì sẽ không bị ghi đè',
     'collections_amp_instructions' => 'Enable Accelerated Mobile Pages (AMP). Automatically adds routes and URL for entries in this collection. Learn more in the [documentation](https://statamic.dev/amp)',
